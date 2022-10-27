@@ -1,5 +1,4 @@
 <h2 > Magic lamp 💡 </h2>
-<p> The Landing page was created with the objective of showing the reality about animal adoption in a simple and responsible way.</p>
 
 <h2 align="center" > The power of the lamp 🪄 </h2>
 <p> By clicking on turnOn you can turn on and turnOff off and by double clicking you break the lamp.</p>
